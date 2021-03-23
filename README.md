@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋,eu sou Jorge Anderson</h1>
 <h3 align="center">Desenvolvedor Java Web</h3>
 
-- 🔭 Estou desenvolvendo um sistema em Java + Primefaces + JSF + JPA para escolas [Project-School](https://github.com/JOrgeAnderson/project-school.git)
+- 🔭 Estou desenvolvendo um sistema em Java + Primefaces + JSF + JPA para escola [Project-School](https://github.com/JOrgeAnderson/project-school.git)
 
 - 🌱 No momento presente estou me aprofundando em Java Web para desenvolvimento de aplicações web e mobile, conhecimento básico em php, JavaScript e CSS **Udemy, Alura, Java Avançado**
 
@@ -10,6 +10,8 @@
 - 📫 E-mail profissional **jorgeribeiro1809@gmail.com**
 
 - 📄 Buscando uma oportunidade na área de desenvolvedor Java Trainee/Júnior. Currículo: [https://docs.google.com/document/d/18ONzl83NrK9QuO-evGFfw7cYpPo6NKWXy6p9EAhBKOg/edit?usp=sharing](https://docs.google.com/document/d/18ONzl83NrK9QuO-evGFfw7cYpPo6NKWXy6p9EAhBKOg/edit?usp=sharing)
+
+- ⚡ Possuo facilidade em: **trabalhar em equipe, boa comunicação, facilidade de aprendizado e sempre disposto a novos desafios!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
