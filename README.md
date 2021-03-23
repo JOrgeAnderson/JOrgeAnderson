@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋,eu sou Jorge Anderson</h1>
 <h3 align="center">Desenvolvedor Java Web</h3>
 
-- 🔭 Estou desenvolvendo um sistema em Java + Primefaces + JSF + JPA para escola [Project-School](https://github.com/JOrgeAnderson/project-school.git)
+- 🔭 Estou desenvolvendo um sistema em Java + Primefaces + JSF + JPA para escolas [Project-School](https://github.com/JOrgeAnderson/project-school.git)
 
 - 🌱 No momento presente estou me aprofundando em Java Web para desenvolvimento de aplicações web e mobile, conhecimento básico em php, JavaScript e CSS **Udemy, Alura, Java Avançado**
 
