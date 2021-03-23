@@ -7,9 +7,9 @@
 
 - 👨‍💻 Projetos finalizados e em adamento: [https://github.com/JOrgeAnderson](https://github.com/JOrgeAnderson)
 
-- 📫 E-mail para entrar em contato: **jorgeribeiro1809@gmail.com**
+- 📫 E-mail profissional **jorgeribeiro1809@gmail.com**
 
-- 📄 Buscando uma oportunidade na área de desenvolvedor Java Trainee/Júnior [https://docs.google.com/document/d/18ONzl83NrK9QuO-evGFfw7cYpPo6NKWXy6p9EAhBKOg/edit?usp=sharing](https://docs.google.com/document/d/18ONzl83NrK9QuO-evGFfw7cYpPo6NKWXy6p9EAhBKOg/edit?usp=sharing)
+- 📄 Buscando uma oportunidade na área de desenvolvedor Java Trainee/Júnior. Currículo: [https://docs.google.com/document/d/18ONzl83NrK9QuO-evGFfw7cYpPo6NKWXy6p9EAhBKOg/edit?usp=sharing](https://docs.google.com/document/d/18ONzl83NrK9QuO-evGFfw7cYpPo6NKWXy6p9EAhBKOg/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
