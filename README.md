@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align = "center"> Olá 👋, eu sou Jorge Anderson </h1>
+<h3 align = "center"> Desenvolvedor Java Web </h3>
 
-<!--
-**JOrgeAnderson/JOrgeAnderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Estou desenvolvendo um sistema em Java + Primefaces + JSF + JPA para escola [Projeto-Escola] (https://github.com/JOrgeAnderson/project-school.git)
 
-Here are some ideas to get you started:
+- 🌱 No momento presente estou me aprofundando em Java Web para desenvolvimento de aplicações web e mobile, conhecimento básico em php, JavaScript e CSS * * Udemy, Alura, Java Avançado **
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 Projetos finalizados e em adamento: [https://github.com/JOrgeAnderson](https://github.com/JOrgeAnderson)
+
+- 📫 E-mail para entrar em contato : **jorgeribeiro1809@gmail.com**
+
+- 📄 Buscando uma oportunidade na área de desenvolvedor Java Trainee / Júnior [https://docs.google.com/document/d/18ONzl83NrK9QuO-evGFfw7cYpPo6NKWXy6p9EAhBKOg/edit?usp=sharing](https://docs.google.com/document / d / 18ONzl83NrK9QuO-evGFfw7cYpPo6NKWXy6p9EAhBKOg / edit? usp = sharing)
+
+<h3 align = "left"> Conecte-se comigo: </h3>
+<p align = "left">
+<a href = "https://linkedin.com/ in / anderson ribeiro "target =" blank "> <img align =" center "src =" https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg "alt =" anderson ribeiro "height =" 30 "width =" 40 "/> </a>
+<a href="https://instagram.com/_jorgeanderson_" target="blank"> <img align =" center "src =" https: // cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg "alt =" _ jorgeanderson_ "height =" 30 "width =" 40 "/> </a>
+</p>
+
+<h3 align = "left"> Idiomas e ferramentas: </h3>
+<p align = "left"> <a href="https://getbootstrap.com" target="_blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/ bootstrap / bootstrap-plain-wordmark.svg "alt =" bootstrap "width =" 40 "height =" 40 "/> </a> <a href =" https://www.w3schools.com/css/ "target = "_ blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt = "css3" largura = "40" altura = "40" /> </a> <a href="https://git-scm.com/" target="_blank"> <img src = "https://www.vectorlogo.zone/logos/git- scm / git-scm-icon.svg "alt = "git" width = "40" height = "40" /> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src = " https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg "alt =" html5 "width =" 40 "height =" 40 "/> </a> < a href = "https://www.java.com" target = "_ blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg "alt =" java "width =" 40 "height =" 40 "/> </a> <a href =" https://developer.mozilla.org/en-US/docs/Web/JavaScript "target =" _blank "> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt = "javascript" width = "40" height = "40" /> </ a > <a href="https://mariadb.org/" target="_blank"> <img src = "https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt = "mariadb "width =" 40 "height =" 40 "/> </a> <a href="https://materializecss.com/" target="_blank"> <img src =" https: //raw.githubusercontent. com / prplx / svg-logos / 5585531d45d294869c4eaab4d7cf2e9c167710a9 / svg / materialize.svg "alt =" materialize "width =" 40 "height =" 40 "/> </a> <a href = "https://www.mongodb.com/" target = "_ blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original- wordmark.svg "alt =" mongodb "width =" 40 "height =" 40 "/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt = "mysql" width = "40" height = "40" /> </ a > <a href="https://www.oracle.com/" target="_blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle- original.svg "alt =" oracle "width = "40" height = "40" /> </a> <a href="https://www.php.net" target="_blank"> <img src = "https: //raw.githubusercontent. com / devicons / devicon / master / icons / php / php-original.svg "alt =" php "width =" 40 "height =" 40 "/> </a> <a href =" https: // www. postgresql.org "target =" _ blank "> <img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg "alt =" postgresql "width = "40" height = "40" /> </a> <a href="https://postman.com" target="_blank"> <img src = "https: //www.vectorlogo.zone / logos / getpostman / getpostman-icon.svg "alt =" postman "width =" 40 "height =" 40 "/> </a> <a href =" https://spring.io/ "target =" _blank "> <img src =" https://www.vectorlogo.zone/logos/springio/springio-icon.svg "alt =" spring "width =" 40 "height =" 40 "/> </a> < a href = "https://www.sqlite.org/" target = "_ blank"> <img src = "https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt = "sqlite "largura =" 40 "altura =" 40 "/> </a> </p>a href = "https://spring.io/" target = "_ blank"> <img src = "https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt = largura da "mola" = "40" height = "40" /> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src = "https: //www.vectorlogo. zone / logos / sqlite / sqlite-icon.svg "alt =" sqlite "width =" 40 "height =" 40 "/> </a> </p>a href = "https://spring.io/" target = "_ blank"> <img src = "https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt = largura da "mola" = "40" height = "40" /> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src = "https: //www.vectorlogo. zone / logos / sqlite / sqlite-icon.svg "alt =" sqlite "width =" 40 "height =" 40 "/> </a> </p>target = "_ blank"> <img src = "https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt = "sqlite" width = "40" height = "40" /> </ a> </p>target = "_ blank"> <img src = "https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt = "sqlite" width = "40" height = "40" /> </ a> </p>
