@@ -3,7 +3,7 @@
 
 - 🔭 Estou desenvolvendo um sistema em Java + Primefaces + JSF + JPA para escolas [Project-School](https://github.com/JOrgeAnderson/project-school.git)
 
-- 🌱 No momento presente estou me aprofundando em Java Web para desenvolvimento de aplicações web e mobile, conhecimento básico em php, JavaScript e CSS **Udemy, Alura, JDev Treinamento**
+- 🌱 No momento presente estou me aprofundando em Java Web para desenvolvimento de aplicações web e mobile, conhecimento básico em php, JavaScript e CSS. Cursos: **Udemy, Alura, JDev Treinamento**
 
 - 👨‍💻 Projetos finalizados e em adamento: [https://github.com/JOrgeAnderson](https://github.com/JOrgeAnderson)
 
