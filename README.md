@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋,eu sou Jorge Anderson</h1>
 <h3 align="center">Desenvolvedor Java Web Júnior</h3>
 
-- 🔭 Estou desenvolvendo um sistema em Java + Spring Boot MVC + Thymeleaf e PostgreSQL [SpringBoot-project](https://github.com/JOrgeAnderson/projeto_SpringMVC.git)
+- 🔭 Estou desenvolvendo um sistema em Java + Spring Boot MVC + Thymeleaf e PostgreSQL. [SpringBoot-project](https://github.com/JOrgeAnderson/projeto_SpringMVC.git)
 
 - 🌱 No momento presente estou me aprofundando em Java Web para desenvolvimento de aplicações web e mobile, conhecimento básico em php, JavaScript e CSS. Cursos: **Udemy, Alura, JDev Treinamento**
 
