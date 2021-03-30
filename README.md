@@ -9,7 +9,7 @@
 
 - 📫 E-mail profissional **jorgeribeiro1809@gmail.com**
 
-- 📄 Buscando uma oportunidade na área de desenvolvedor Java Trainee/Júnior. Currículo: [https://docs.google.com/document/d/18ONzl83NrK9QuO-evGFfw7cYpPo6NKWXy6p9EAhBKOg/edit?usp=sharing](https://docs.google.com/document/d/18ONzl83NrK9QuO-evGFfw7cYpPo6NKWXy6p9EAhBKOg/edit?usp=sharing)
+- 📄 Buscando uma oportunidade na área de desenvolvedor Java Trainee/Júnior. Currículo: [https://docs.google.com/document/d/18ONzl83NrK9QuO-evGFfw7cYpPo6NKWXy6p9EAhBKOg/edit?usp=sharing](https://docs.google.com/document/d/1YLexNGeDzsqAFcvNVp6o8s0MguLmuVGGLA49pbhJBU0/edit?usp=sharing)
 
 - ⚡ Possuo facilidade em: **trabalhar em equipe, boa comunicação, facilidade no aprendizado e sempre disposto a novos desafios!**
 
