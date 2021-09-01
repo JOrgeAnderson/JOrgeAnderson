@@ -9,8 +9,6 @@
 
 - 📫 E-mail profissional **jorgeribeiro1809@gmail.com**
 
-- ⚡ Possuo facilidade em: **trabalhar em equipe, boa comunicação, facilidade no aprendizado e sempre disposto a novos desafios!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anderson ribeiro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="anderson ribeiro" height="30" width="40" /></a>
